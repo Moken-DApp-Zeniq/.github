@@ -1,7 +1,7 @@
 # Moken (Decentralized airbnb)
 ## ZENCON Hackathon 2023
-## [Trailer]()
-
+## [Trailer/Video](https://www.youtube.com/watch?v=H1C4sxOm5ms)
+## [Slides](https://www.canva.com/design/DAFUYS3M008/I4vbBh1ssg0bj7W1vU5gNw/edit?utm_content=DAFUYS3M008&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ![Moken Mockup](https://github.com/Moken-DApp-Zeniq/.github/assets/99221221/3620b42d-4aea-4054-abbd-c34ac5377805)
 
 ## Our solution
@@ -54,3 +54,4 @@ In summary, MQTT is a lightweight, efficient, and reliable protocol for facilita
 
 ### Photo
 ![hardware_moken](https://github.com/Moken-DApp-Zeniq/.github/assets/99221221/c1f456e6-17b6-4848-a434-9519500c1bbe)
+
