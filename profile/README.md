@@ -1,12 +1,13 @@
-## Hi there 👋
+# Moken (Decentralized airbnb)
+## ZENCON Hackathon 2023
+## [Trailer]()
 
-<!--
+![Moken Mockup](https://github.com/Moken-DApp-Zeniq/.github/assets/99221221/3620b42d-4aea-4054-abbd-c34ac5377805)
 
-**Here are some ideas to get you started:**
+## Our solution
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our repositories
+
+## Architecture
+
+### Hardware photo
