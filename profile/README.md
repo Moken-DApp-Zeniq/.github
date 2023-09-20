@@ -27,6 +27,8 @@ Each repository contains instructions on how to run the code and specific inform
 
 ![Architeture (1)](https://github.com/Moken-DApp-Zeniq/.github/assets/99221221/ccd2bd74-e0ab-4870-95d8-648aac435a93)
 
+### Hardware documentation
+
 To communicate with IoT devices, a protocol called MQTT is used. The MQTT, or Message Queuing Telemetry Transport, is a communication protocol designed for efficient data transmission between devices, particularly in the context of the Internet of Things (IoT). It operates on the principles of simplicity, reliability, and scalability.
 
 At its core, MQTT follows a client-server architecture. The participants in MQTT communication include:
@@ -45,8 +47,6 @@ Message Distribution: When a publisher sends a message to the MQTT broker, the b
 
 
 In summary, MQTT is a lightweight, efficient, and reliable protocol for facilitating communication between devices, making it ideal for IoT applications. Its use of topics, quality of service levels, and message distribution through a central broker simplifies data exchange and enhances scalability while minimizing network overhead.
-
-### Hardware documentation
 
 #### Photo
 ![hardware_moken](https://github.com/Moken-DApp-Zeniq/.github/assets/99221221/c1f456e6-17b6-4848-a434-9519500c1bbe)
